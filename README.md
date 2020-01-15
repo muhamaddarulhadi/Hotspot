@@ -15,30 +15,25 @@
 #### INFORMATION
 
 
-using hotspot data from your mobile phone on your laptop/computer
+Using hotspot data from your mobile phone on your laptop/computer
 
 1. netsh int ipv4 set glob defaultcurhoplimit=65
 2. netsh int ipv6 set glob defaultcurhoplimit=65
 
 
-use your laptop as a Wi-Fi repeater:
+Use your laptop as a Wi-Fi repeater:
 
 1. netsh int ipv4 set glob defaultcurhoplimit=64
 2. netsh int ipv6 set glob defaultcurhoplimit=64
 
 
-set it to default
+Set it to default:
 
 1. netsh int ipv4 set glob defaultcurhoplimit=128
 2. netsh int ipv6 set glob defaultcurhoplimit=128
 
 
-defaultcurhoplimit - Default HopLimit of packets sent
-
-
-Default TTL and Hop Limit values vary between different operating systems, here are 
-
-the defaults for a few:
+Default TTL and Hop Limit values vary between different operating systems, here are the defaults for a few:
 
 1. Linux kernel 2.4 (circa 2001): 255 for TCP, UDP and ICMP
 2. Linux kernel 4.10 (2015): 64 for TCP, UDP and ICMP
@@ -48,6 +43,8 @@ the defaults for a few:
 6. Windows Server 2019 (2018): 128 for TCP, UDP and ICMP
 7. MacOS (2001): 64 for TCP, UDP and ICMP
 
+
+*defaultcurhoplimit - Default HopLimit of packets sent*
 
 **************************************************************************
 
