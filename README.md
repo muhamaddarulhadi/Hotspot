@@ -57,6 +57,15 @@ Default TTL and Hop Limit values vary between different operating systems, here 
 4. [2019: Bypass Verizon Hotspot Throttle (NO ROOT)](https://www.reddit.com/r/Android/comments/cmxp66/2019_bypass_verizon_hotspot_throttle_no_root/ "Reddit")
 5. [How to make the cmd line executable](https://stackoverflow.com/questions/42826625/how-to-make-the-cmd-line-executable "Stackpverflow")
 6. [How to change the default TTL of TCP/IP packets?](https://askubuntu.com/questions/667096/how-to-change-the-default-ttl-of-tcp-ip-packets "askubuntu")
+7. https://www.allegro.cc/forums/thread/614960
+8. https://www.reddit.com/r/Android/comments/x77ji/undetectable_tethering_using_android_phone/
+9. https://searchnetworking.techtarget.com/definition/time-to-live
+10. https://subinsb.com/default-device-ttl-values/
+11. https://web.archive.org/web/20150206054041/http://www.binbert.com/blog/2009/12/default-time-to-live-ttl-values/
+12. https://android.stackexchange.com/questions/47819/how-can-phone-companies-detect-tethering-incl-wifi-hotspot
+13. https://itstillworks.com/remove-sassexe-8693324.html
+14. http://noahdavids.org/self_published/TTL_values.html
+15. https://forum.xda-developers.com/android/help/tethering-ttl-t3824958
 
 #### YOUTUBE REFERENCE
 
