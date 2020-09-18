@@ -1,6 +1,5 @@
 #### UNTUK BYPASS HOTSPOT KAT LAPTOP UNTUK GUNA DATA SELAIN DARI HOTSPOT DI HANDPHONE 
 
-NOTE: DONT USE 4G, USE 3G
 1. buka hotspot di phone
 2. di laptop/pc, connect kepada hotspot
 3. di laptop, buka cmd, run as administrator 
