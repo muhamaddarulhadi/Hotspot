@@ -1,7 +1,7 @@
 # :warning: For Educational Purposes Only
 
 Disclaimer :
-1. For educational purposed only.
+1. For educational purposes only.
 2. Don't use them for illegal activities.
 3. You are the only responsible for your actions :exclamation:
 
