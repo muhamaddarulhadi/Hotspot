@@ -1,3 +1,15 @@
+# :warning: For Educational Purposes Only
+
+Disclaimer :
+1. For educational purposed only.
+2. Don't use them for illegal activities.
+3. You are the only responsible for your actions :exclamation:
+
+:see_no_evil: :hear_no_evil: :speak_no_evil:
+
+-------------------------------------------------------------------------
+
+
 #### UNTUK BYPASS HOTSPOT KAT LAPTOP UNTUK GUNA DATA SELAIN DARI HOTSPOT DI HANDPHONE 
 
 1. buka hotspot di phone
